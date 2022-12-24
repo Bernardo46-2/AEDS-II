@@ -1,0 +1,59 @@
+(R) Invasion: Brain Craving
+(R) Ghostbusters: The Video Game Remastered
+(R) Drop
+(R) Master of Magic Classic
+(R) VTuber Editor
+(R) City Siege: Faction Island
+(R) Titan Souls
+(R) Darkness and Flame: The Dark Side f2p
+(R) The Political Machine 2020
+(R) Eggroll
+(R) Rathe: The Beginning
+[0] 495050 Mega Man Legacy Collection 2 Aug/2017 50000 - 100000 0 19.99 4 [English, French, Italian, German, Spanish - Spain, Traditional Chinese, Japanese] http://www.capcom.co.jp/RCC/2/ true false false 88% 21h 46m CAPCOM CO., LTD [Action]
+[1] 363610 Botology Jun/2015 50000 - 100000 0 0.99 4 [English, Russian] http://blacklimestudio.ru/ true false false 34% 4h 15m Black Lime Studio [Action, Indie]
+[2] 13240 Unreal Tournament: Game of the Year Edition Mar/2008 500000 - 1000000 17 9.99 0 [English] http://www.ut2004.com/utgoty/index.html true false false 97% 3h 1m Epic Games, Inc. [Action]
+[3] 403190 Planetbase Oct/2015 500000 - 1000000 0 14.99 0 [English, Spanish - Spain, French, German] http://planetbase.madrugaworks.com true true false 79% 12h 42m Madruga Works [Indie, Simulation, Strategy]
+[4] 381020 Sky Rogue Aug/2017 50000 - 100000 0 19.99 1 [English, French, Japanese, Simplified Chinese, Italian, German, Korean, Spanish - Spain, Portuguese, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese] http://skyroguegame.com/ true true true 93% null Fractal Phase [Action, Indie, Simulation]
+[5] 332800 Five Nights at Freddy's 2 Nov/2014 500000 - 1000000 0 7.99 0 [English] http://www.scottgames.com/ true false false 94% 2h 25m Scott Cawthon [Indie]
+[6] 253190 Kingdom Wars 2: Battles Mar/2016 50000 - 100000 0 0.00 0 [English, French, Italian, German, Spanish - Spain, Russian] http://kw2b.com true false false 63% 59h 54m Reverie World Studios [Indie, Simulation, Strategy]
+[7] 1859610 Size It Jan/2022 50000 - 100000 0 29.99 0 [English] null true false false 60% null galesoozka [Indie]
+[8] 1731040 Shawarma or Shaverma Sep/2021 50000 - 100000 0 9.99 0 [English, Russian] null true false false 25% null Stas Paty9mkin [Casual, Indie, RPG, Simulation, Strategy]
+[9] 9050 DOOM 3 Aug/2007 500000 - 1000000 17 4.99 0 [English, German, Italian, Spanish - Spain, French] http://www.doom3.com/ true false false 89% 5h 42m id Software [Action]
+[10] 1498790 Black Lazar Jan/2022 50000 - 100000 0 6.99 1 [English] https://www.pleonwords.com true false false 100% null Pleon Words [Adventure, Indie]
+[11] 1470660 Amborettio Dec/2020 50000 - 100000 0 4.99 0 [English] null true false false 100% null Wanech [Adventure, Indie, RPG, Strategy]
+[12] 1069360 Plasticity May/2019 50000 - 100000 0 0.00 0 [English] https://www.plasticitygame.wixsite.com/about true false false 81% null Plasticity Games [Indie]
+[13] 567670 Serious Sam 3 VR: BFE Nov/2017 50000 - 100000 0 39.99 0 [English, French, Italian, German, Spanish - Spain, Japanese, Russian, Simplified Chinese] http://www.croteam.com true false true 86% 32m Croteam VR [Action, Indie]
+[14] 1289830 迅风的米斯特汀 Windy Mystletainn Oct/2021 50000 - 100000 0 0.99 0 [Simplified Chinese] null true false false 95% null 索尼克 [Adventure, RPG]
+[15] 375620 CortexGear: AngryDroids Sep/2015 50000 - 100000 0 5.99 0 [English] http://jh12world.com/cortexgearangrydroids true true true 21% 4h 3m JH12world,Jordan Benoit [Action, Adventure, Indie, Strategy]
+[16] 742500 Nonogram - Master's Legacy Nov/2018 50000 - 100000 0 0.00 3 [English, French, Italian, German, Spanish - Spain, Japanese, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Ukrainian] https://hook.gg/ true false false 84% null Konstructors [Casual, Free to Play, Indie, Strategy]
+[17] 1125480 School Years Oct/2019 50000 - 100000 0 11.99 3 [Simplified Chinese, English] null true false false 84% 3m YEARS [Adventure, Indie, RPG, Simulation]
+[18] 801020 Golden Dungeons Mar/2018 50000 - 100000 0 0.99 1 [English] null true false false 48% null GD Studio [Action, Casual, Indie]
+[19] 1389190 Rear of Business Jan/2021 50000 - 100000 17 1.99 0 [English, Turkish, French, Italian, German, Spanish - Spain] https://www.2xdal.com true false false 57% null 2xDal [Action, Adventure, Casual, Racing, Simulation, Strategy]
+[20] 882790 Fate Seeker Aug/2018 500000 - 1000000 0 21.09 1 [Simplified Chinese, Traditional Chinese] https://goo.gl/LptgqS true false false 91% 16h 24m 甲山林娛樂股份有限公司 [RPG]
+[21] 541230 Alien Shooter TD Jan/2017 50000 - 100000 0 9.99 0 [English, Russian, Korean] http://www.sigma-team.net true false false 86% 6h 30m Sigma Team Inc. [Action, Indie, Strategy]
+[22] 644640 Band of Defenders Apr/2018 50000 - 100000 0 13.99 0 [English, Czech, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese] http://bod.aldagames.com/ true false false 52% null Alda Games [Action]
+[23] 915540 Aim Master Nov/2018 50000 - 100000 0 2.99 0 [English] https://www.hitcle.com true false false 65% 3h 49m Sensitivity Elf [Action]
+[24] 1156990 Return to Shironagasu Island Mar/2020 50000 - 100000 0 4.99 1 [Simplified Chinese, Japanese, English, Korean, Spanish - Spain, Spanish - Latin America, German, Polish] https://tabinomichi.jp/shironagasu/ true false false 97% 4h 21m HYOGO ONIMUSHI [Adventure]
+[25] 326990 Deep Eclipse: New Space Odyssey Oct/2014 50000 - 100000 0 0.99 0 [English, Russian] null true false false 62% 3h 57m Ultravision Interactive [Action, Indie]
+[26] 376680 Splendor Sep/2015 50000 - 100000 0 9.99 3 [English, French, German] http://www.daysofwonder.com true false false 81% 4h 21m Days of Wonder [Casual, Strategy]
+[27] 548570 RAGE 2 May/2019 500000 - 1000000 17 39.99 0 [English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America] https://bethesda.net/en/game/rage2 true false false 62% 10h 36m id Software,Avalanche Studios [Action]
+[28] 700660 Dice Tower Defense Sep/2017 50000 - 100000 0 3.99 0 [English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Greek, Simplified Chinese, Portuguese, Russian, Turkish, Japanese] null true true true 69% null Educational Games [Casual, Indie, Strategy]
+[29] 1545450 Incredibox Apr/2021 50000 - 100000 0 4.99 1 [English, French, Italian, German, Arabic, Simplified Chinese, Traditional Chinese, Korean, Spanish - Latin America, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Thai, Turkish, Vietnamese] https://www.incredibox.com/ true true false 98% 1h 1m So Far So Good [Casual, Indie]
+[30] 205060 BIT.TRIP CORE Oct/2012 50000 - 100000 0 9.99 1 [English] http://totallychoice.com/games/bittrip-core true true false 59% 4h 56m Gaijin Games [Action, Indie]
+[31] 448980 The Divergent Series: Allegiant VR Mar/2016 50000 - 100000 0 0.00 0 [English] http://www.thedivergentseries.movie/vr true false false 65% 4m Wevr Inc,Big Red Button Entertainment [Adventure, Casual, Free to Play]
+[32] 346730 GOCCO OF WAR Nov/2015 50000 - 100000 0 19.99 1 [English, Japanese, Simplified Chinese] null true false false 89% 7h 22m peakvox,O-TWO inc. [Action, Casual, Indie]
+[33] 562270 Shot Shot Tactic Dec/2016 50000 - 100000 0 3.99 0 [English] null true false false 45% 4h 38m Indie Game Group [Violent, Gore, Action, Casual, Indie, Early Access]
+[34] 335120 Serpent in the Staglands May/2015 50000 - 100000 0 13.99 0 [English] http://serpentinthestaglands.com/ true true true 66% null Whalenought Studios [Adventure, RPG]
+[35] 377760 Fox & Flock Jun/2015 50000 - 100000 0 1.99 0 [English] http://www.smartergames.com/ true true true 85% 6h 18m Smarter Games [Casual, Indie]
+[36] 449020 The Bottom of the Well Mar/2016 50000 - 100000 0 0.00 1 [English] http://www.rednettlestudio.com/ true false false 85% 1h 38m Red Nettle Studio [Free to Play, RPG]
+[37] 320400 Magnifico Dec/2014 50000 - 100000 0 4.99 0 [English, French, Italian, German, Spanish - Spain, Russian] http://slitherine.com/games/magnifico_pc true false false 61% 2h 43m Mixel [Casual, Strategy]
+[38] 363960 Devils & Demons Oct/2015 50000 - 100000 0 1.99 0 [English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese] null true false false 40% 2m HandyGames [RPG, Strategy]
+[39] 415150 Pang Adventures Apr/2016 50000 - 100000 0 9.99 0 [English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian] https://www.facebook.com/Pang.Adventures/ true false false 80% 3h 29m Dotemu [Action, Casual, Strategy]
+[40] 286810 Hard Truck Apocalypse: Rise Of Clans / Ex Machina: Meridian 113 Mar/2014 50000 - 100000 0 5.99 0 [English, Russian] http://deusexmachina.fsay.net/forum/ true false false 74% 5h 33m Targem Games [Action, Racing]
+[41] 215100 Ragnarok Online Oct/2013 500000 - 1000000 0 0.00 0 [English] http://www.playragnarok.com/ true false false 75% 59m Gravity Interactive [Free to Play, Massively Multiplayer, RPG]
+[42] 687260 Tokyo Dark Sep/2017 50000 - 100000 17 17.99 0 [English, Japanese] http://www.tokyodark.com/ true false false 86% 3h 36m Cherrymochi [Adventure]
+[43] 619610 Ultratank Jul/2019 50000 - 100000 0 0.99 0 [English] null true false false 100% null Asset Flip Studio [Action, Casual, Indie, Racing]
+[44] 7840 Death Track®: Resurrection May/2009 50000 - 100000 0 2.99 0 [English, German, French, Spanish - Spain, Italian] null true false false 58% null Sky Fallen [Racing]
+[45] 506670 ORBITAL Jul/2016 500000 - 1000000 0 0.99 0 [English] null true false false 74% 3h 30m Ardi Studio [Casual, Indie]
+[46] 1634290 Chuhou Joutai 2: Paraided! Jul/2021 50000 - 100000 0 4.99 0 [English, Japanese] https://drillimation.com/chuhou-joutai-2-paraided/ true false false 100% null Drillimation Systems [Action, Indie]
+[47] 856880 Fighting Fantasy Classics Jun/2018 50000 - 100000 0 0.00 13 [English] http://bit.ly/TMGdevblog true true false 78% null Tin Man Games [Free to Play, Indie, RPG]
