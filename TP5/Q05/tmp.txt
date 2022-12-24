@@ -1,0 +1,44 @@
+=> Samurai Bringer
+Posicao: 18
+=> Another Otter
+Posicao: 19
+=> Chuhou Joutai 2: Paraided!
+Posicao: 28
+=> Mutant Mudds Deluxe
+Posicao: 15
+=> HUNTDOWN
+Posicao: 1
+=> A Detective's Novel
+Posicao: 2
+=> Solasta: Crown of the Magister
+Posicao: 23
+0 	300550 Shadowrun: Dragonfall - Director's Cut Sep/2014 500000 - 1000000 0 14.99 0 [English] http://harebrained-schemes.com/shadowrun/dragonfall/ true true true 89% 15h 1m Harebrained Schemes [Adventure, Indie, RPG, Strategy]
+1 	598550 HUNTDOWN May/2021 50000 - 100000 0 19.99 1 [English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese] http://huntdown.com/ true true true 95% 11h 26m Easy Trigger Games [Action, Indie]
+2 	503820 A Detective's Novel Jul/2016 500000 - 1000000 0 0.99 0 [English] http://amaterasusoftware.blogspot.hr/ true false false 68% 4h 24m Amaterasu Software [Adventure, Indie]
+3 	49800 Flight of the Icarus May/2010 50000 - 100000 0 4.99 0 [English] http://musegames.com/games/flight-of-the-icarus/ true true false 39% 15m Muse Games [Action, Indie]
+4 	1923860 Neon Outlast Mar/2022 50000 - 100000 0 4.99 0 [English] null true false false 0% null Keep Spinning [Action, Indie]
+5 	
+6 	1276550 Faefever Jul/2020 50000 - 100000 0 0.00 0 [English] null true false false 88% null Monkey Wizard Entertainment [Adventure, Casual, Free to Play, Indie]
+7 	270130 The Gallery - Episode 1: Call of the Starseed Apr/2016 50000 - 100000 0 14.99 1 [English] http://www.cloudheadgames.com true false false 84% 36m Cloudhead Games ltd. [Adventure, Casual, Indie]
+8 	559010 Cosmic Sugar VR Nov/2016 50000 - 100000 0 0.00 1 [English] http://cosmicsugarvr.com true false false 95% 5m David Lobser [Free to Play, Simulation]
+9 	336150 Virtual Pool 4 May/2015 50000 - 100000 0 24.99 0 [English] http://vponline.celeris.com true false false 83% null Celeris [Sports]
+10 	730 Counter-Strike: Global Offensive Aug/2012 50000000 - 100000000 0 0.00 1 [Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Bulgarian, Ukrainian, Greek, Spanish - Latin America, Vietnamese] http://blog.counter-strike.net/ true true true 88% 508h 4m Valve,Hidden Path Entertainment [Action, Free to Play]
+11 	1369470 Pincremental Aug/2020 50000 - 100000 0 0.00 0 [English] null true true false 80% null Makopaz [Casual, Free to Play, Indie, Simulation, Strategy]
+12 	1347140 NEAR DEADline Aug/2020 50000 - 100000 0 0.00 1 [English] https://www.newgrounds.com/portal/view/736443 true true true 90% null Dumb ****ing Horse [Action, Casual, Free to Play, Indie]
+13 	292120 FINAL FANTASY® XIII Oct/2014 500000 - 1000000 13 15.99 0 [English, French, Italian, German, Spanish - Spain] http://www.square-enix.com/ true false false 74% 28h 58m Square Enix [RPG]
+14 	1189490 ??? Nov/2019 500000 - 1000000 0 11.99 0 [Simplified Chinese] null true false false 91% 33h 39m Chalcedony Network [Indie, RPG, Strategy, Early Access]
+15 	247370 Mutant Mudds Deluxe Nov/2013 50000 - 100000 0 9.99 0 [English] http://www.mutantmuddsdeluxe.com true false false 74% 3h 21m Renegade Kid [Action, Indie]
+16 	1879330 WARRIORS OROCHI 3 Ultimate Definitive Edition Jul/2022 50000 - 100000 0 39.99 0 [English, Simplified Chinese, Traditional Chinese, Japanese] https://www.gamecity.ne.jp/orochi2/ultimate/index.html true false false 88% null KOEI TECMO GAMES CO., LTD. [Action, Strategy]
+17 	690510 Immortal Soul: Black Survival Mar/2019 500000 - 1000000 0 0.00 0 [English, Japanese, Korean, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Thai, Portuguese, Portuguese - Brazil] null true false false 79% 28h 5m Nimble Neuron [Free to Play, Indie, Strategy]
+18 	1851280 Samurai Bringer Apr/2022 50000 - 100000 0 9.99 0 [English, Japanese, Simplified Chinese, Traditional Chinese] https://playism.com/game/samurai-bringer/ true false false 88% 5h 2m ALPHAWING Inc. [Action, Indie]
+19 	886470 Another Otter Jul/2018 50000 - 100000 0 0.99 0 [English] null true false false 63% null PepoLab [Casual, Indie]
+20 	711540 Lonely Mountains: Downhill Oct/2019 50000 - 100000 0 9.99 4 [English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Japanese, Korean, Portuguese - Brazil, Polish, Turkish] http://lonelymountains.com true true false 92% 1h 15m Megagon Industries [Action, Indie, Racing, Simulation, Sports]
+21 	1112930 Dredgers Oct/2019 50000 - 100000 0 11.99 0 [English, Simplified Chinese] null true false false 92% null Pirate-Rob [Indie, RPG]
+22 	275570 Summoner Mar/2014 50000 - 100000 0 4.99 0 [English, German] null true false false 83% 3h 24m Volition [Action, RPG]
+23 	1096530 Solasta: Crown of the Magister May/2021 500000 - 1000000 0 15.99 4 [English, French, German, Simplified Chinese, Portuguese - Brazil, Russian] https://www.solasta-game.com/ true true false 89% 37h 56m Tactical Adventures [Adventure, RPG, Strategy]
+24 	1504570 Cultivation Tales Apr/2022 500000 - 1000000 0 19.99 0 [English, Simplified Chinese] null true false false 38% 27h 42m Ac Games [Action, Adventure, Indie, RPG, Strategy, Early Access]
+25 	573210 Mistwood Heroes Dec/2016 50000 - 100000 0 3.99 0 [English] null true false false 56% 4h Meepower [Action, Adventure, Casual, Indie, RPG]
+26 	1368820 RollerCoaster Tycoon® 3: Complete Edition Sep/2020 50000 - 100000 0 7.99 0 [English, French, Italian, German, Spanish - Spain, Danish, Dutch, Finnish, Norwegian, Swedish] null true true false 83% 1h 15m Frontier Developments,Aspyr (Mac) [Simulation, Strategy]
+27 	951530 Alien Shooter - Last Hope Nov/2020 50000 - 100000 0 4.99 0 [English, Russian] http://www.sigma-team.net true false false 81% null Sigma Team Inc. [Action, Indie, RPG]
+28 	1634290 Chuhou Joutai 2: Paraided! Jul/2021 50000 - 100000 0 4.99 0 [English, Japanese] https://drillimation.com/chuhou-joutai-2-paraided/ true false false 100% null Drillimation Systems [Action, Indie]
+29 	259570 EDEN STAR Jan/2015 50000 - 100000 0 19.99 0 [English] http://www.edenstargame.com true false false 61% 4h 31m Flix Interactive [Action, Adventure, Indie, Strategy, Early Access]
